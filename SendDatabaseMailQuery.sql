@@ -1,4 +1,4 @@
--- This code was created by Carlo
+
 
 -- create table
 CREATE TABLE #SampleTable 
